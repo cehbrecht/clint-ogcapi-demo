@@ -1,0 +1,14 @@
+# conda env update -f environment.yml
+name: clint_ogcapi_demo
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - ipython
+  - jupyterlab
+  - ipywidgets
+  - nodejs
+  - owslib
+  - birdy
+  - xarray  
+  - python-swiftclient
