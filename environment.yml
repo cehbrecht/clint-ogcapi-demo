@@ -6,6 +6,9 @@ dependencies:
   - pip
   - ipython
   - jupyterlab
+  - ipywidgets
+  - nodejs
   - owslib
+  - birdy
   - xarray  
   - python-swiftclient
